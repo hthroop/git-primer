@@ -7,3 +7,5 @@ Per the setup instructions on [this](https://nceas.github.io/scicomp-workshop-co
 1. <u>installed</u> R, RStudio, and Git
 2. <u>created</u> a GitHub account, and
 3. <u>connected</u> their local instance of Git to their GitHub account
+
+Heather added this line in. :-) 
